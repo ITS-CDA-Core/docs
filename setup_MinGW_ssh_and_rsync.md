@@ -1,0 +1,16 @@
+# コマンドライン版ssh・rsync（MinGW）のセットアップ手順
+
+![](./images/setup_MinGW_ssh_and_rsync/WS000000.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000001.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000002.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000003.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000004.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000005.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000006.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000007.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000008.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000009.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000010.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000011.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000012.JPG)
+![](./images/setup_MinGW_ssh_and_rsync/WS000013.JPG)
