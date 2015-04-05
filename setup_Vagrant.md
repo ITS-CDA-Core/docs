@@ -38,3 +38,19 @@
 ![](./images/setup_Vagrant/WS000006.JPG)
 
 再起動を促されるため、都合の良いタイミングで再起動を実施する。
+
+## プラグインのインストール
+
+### vagrant-omnibus
+
+```bash
+vagrant plugin install vagrant-omnibus
+```
+
+上記コマンドにて、プラグインをインストールする。
+
+```bash
+vagrant plugin list
+```
+
+インストールされたか／されているかは上記コマンドにて確認できる。
