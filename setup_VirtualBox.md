@@ -21,7 +21,7 @@
 
 ![](./images/setup_VirtualBox/WS000002.JPG)
 
-設定項目は何も変更する必要はなく、
+設定項目は何も変更する必要はなく（※）、
 「Next」をクリック。
 
 ※変更してもよい。
@@ -43,5 +43,4 @@
 ![](./images/setup_VirtualBox/WS000006.JPG)
 
 「Finish」をクリック。
-
 （オプションは任意）
