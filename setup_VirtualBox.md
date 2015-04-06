@@ -14,22 +14,21 @@
 
 ![](./images/setup_VirtualBox/WS000001.JPG)
 
-設定項目は何も変更する必要はなく（※）、
+設定項目は何も変更する必要はなく（※）、    
 「Next」をクリック。
 
 ※変更してもよい。ただし、全featureをインストールした場合しか動作検証は行っていない。
 
 ![](./images/setup_VirtualBox/WS000002.JPG)
 
-設定項目は何も変更する必要はなく（※）、
+設定項目は何も変更する必要はなく（※）、    
 「Next」をクリック。
 
 ※変更してもよい。
 
 ![](./images/setup_VirtualBox/WS000003.JPG)
 
-注意事項を確認し、「Yes」をクリック。
-
+注意事項を確認し、「Yes」をクリック。    
 （インストール作業中にネットワークの瞬断が発生するとのこと）
 
 ![](./images/setup_VirtualBox/WS000004.JPG)
@@ -42,5 +41,5 @@
 
 ![](./images/setup_VirtualBox/WS000006.JPG)
 
-「Finish」をクリック。
+「Finish」をクリック。    
 （オプションは任意）
