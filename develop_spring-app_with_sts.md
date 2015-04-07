@@ -10,3 +10,5 @@
 
 解凍先\sts-bundle\sts-x.x.x.RELEASE\STS.exe    
 を実行。
+
+workspaceは好きな場所またはデフォルトで良い。
