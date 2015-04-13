@@ -19,6 +19,15 @@ workspaceは好きな場所またはデフォルトで良い。
 
 (初期画面)
 
+## STSの推奨設定
+
+* Preference
+	* General
+		* Editors
+			* Text Editors
+				* Show line numbers -> ON
+				* Show whitespace characters -> ON
+
 ## SpringBootアプリのImport
 
 ![](./images/develop_spring-app_with_sts/WS000002.JPG)
