@@ -1,4 +1,4 @@
-# GitHub‚É‚¨‚¯‚é‹@”\’Ç‰Á/C³è‡
+# GitHubã«ãŠã‘ã‚‹æ©Ÿèƒ½è¿½åŠ /ä¿®æ­£æ‰‹é †
 
 ![](./images/add_or_fix_with_GitHub-PullRequest/WS000000.JPG)
 ![](./images/add_or_fix_with_GitHub-PullRequest/WS000001.JPG)

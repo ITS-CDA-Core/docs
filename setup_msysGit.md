@@ -1,4 +1,4 @@
-# msysGit�̃Z�b�g�A�b�v�菇
+# msysGitのセットアップ手順
 
 ![](./images/setup_msysGit/WS000000.JPG)
 ![](./images/setup_msysGit/WS000001.JPG)

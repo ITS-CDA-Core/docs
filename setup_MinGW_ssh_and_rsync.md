@@ -1,4 +1,4 @@
-# ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“”ÅsshErsynciMinGWj‚ÌƒZƒbƒgƒAƒbƒvè‡
+# ã‚³ãƒãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ç‰ˆsshãƒ»rsyncï¼ˆMinGWï¼‰ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ‰‹é †
 
 ![](./images/setup_MinGW_ssh_and_rsync/WS000000.JPG)
 ![](./images/setup_MinGW_ssh_and_rsync/WS000001.JPG)
