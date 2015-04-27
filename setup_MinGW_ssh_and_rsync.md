@@ -27,10 +27,10 @@
 
 ![](./images/setup_MinGW_ssh_and_rsync/WS000006.JPG)
 
-左メニューの「All Packages->MSYS->MinGW Developer Toolkit」を選択し、
-右上のリストから
-・msys-openssh
-・msys-rsync
+左メニューの「All Packages->MSYS->MinGW Developer Toolkit」を選択し、    
+右上のリストから    
+・msys-openssh    
+・msys-rsync    
 のbin/doc/licを選択する。
 
 ![](./images/setup_MinGW_ssh_and_rsync/WS000007.JPG)
@@ -59,7 +59,7 @@
 
 ![](./images/setup_MinGW_ssh_and_rsync/WS000013.JPG)
 
-変数値の末尾に、「;」＋「MinGWのインストール先パス」＋「\bin」を追記する。
-（「C:\MinGW」にインストールした場合、「;C:\MinGW\bin」を追記）
+変数値の末尾に、「;」＋「MinGWのインストール先パス」＋「\bin」を追記する。    
+（「C:\MinGW」にインストールした場合、「;C:\MinGW\bin」を追記）    
 
 「OK」をクリックしていき、コントロールパネルを閉じて終了。
