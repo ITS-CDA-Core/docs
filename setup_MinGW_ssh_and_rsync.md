@@ -59,7 +59,7 @@
 
 ![](./images/setup_MinGW_ssh_and_rsync/WS000013.JPG)
 
-変数値の末尾に、「;」＋「MinGWのインストール先パス」＋「\bin」を追記する。    
-（「C:\MinGW」にインストールした場合、「;C:\MinGW\bin」を追記）    
+変数値の末尾に、「;」＋「MinGWのインストール先パス」＋「\msys\1.0\bin」を追記する。    
+（「C:\MinGW」にインストールした場合、「;C:\MinGW\msys\1.0\bin」を追記）    
 
 「OK」をクリックしていき、コントロールパネルを閉じて終了。
